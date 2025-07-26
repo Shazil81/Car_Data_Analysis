@@ -62,34 +62,44 @@ See SQL file (`Cars_Data_Analysis.sql`) for full query list.
 ---
 
 ## Key Visualization Performed (jupyter Notebook)
+
 - Count of Cars by Fuel Type
+  
   <img width="564" height="361" alt="image" src="https://github.com/user-attachments/assets/d6ecb440-da27-4d12-8a8c-f07974c62607" />
 
 - Brands with Avg Price
+  
   <img width="622" height="361" alt="image" src="https://github.com/user-attachments/assets/a59296ae-7903-4b5b-a4fa-8749b3ad4979" />
 
 - Best Fuel Type by Avg Mileage
+  
   <img width="636" height="372" alt="image" src="https://github.com/user-attachments/assets/804f1849-e0c2-4975-9109-24130609f08e" />
 
 - Average Price per Brand for Diesel Cars
+  
   <img width="629" height="366" alt="image" src="https://github.com/user-attachments/assets/4bb0cad8-7694-47fa-ade7-1f19c05c80ca" />
 
 - Total No of Automatic and Manual Cars by Brand
+  
   <img width="731" height="412" alt="image" src="https://github.com/user-attachments/assets/91262574-3d6d-4b74-b09b-b9d4278d9ac4" />
 
 - Top Brands by Price per CC
+  
   <img width="788" height="357" alt="image" src="https://github.com/user-attachments/assets/f6acbfd4-fdd7-4f4b-8599-01705aa9c9da" />
 
 - Brand Performance Percentile by Service Cost
+  
   <img width="782" height="383" alt="image" src="https://github.com/user-attachments/assets/c26eb4b6-6ece-4ed6-9470-87753fc26424" />
 
 - Outlier Cars within the Brand
+  
   <img width="865" height="383" alt="image" src="https://github.com/user-attachments/assets/b9133cc3-9964-41ae-b245-97c0dde0253d" />
 
 - Brands Where Average Price Increased Consistently
+  
   <img width="861" height="398" alt="image" src="https://github.com/user-attachments/assets/c66330f5-3688-43f1-9933-841e8fc0d201" />
 
-  ---
+---
 ## Key Insights
 - **Brands vary widely in service cost**: Some brands are much more economical to maintain than others.
 
